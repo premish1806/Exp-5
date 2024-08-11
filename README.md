@@ -41,6 +41,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/d6df2378-995f-44b7-981f-f26d649435b2)
 
 ## Program 2: Leap Year
 
@@ -66,6 +67,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/5c8dbb97-d1b2-49e6-8065-379fc9a0d6ba)
 
 ## Program 3: Password Validation
 
@@ -92,6 +94,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/7f83ccc0-07d4-4ac8-ac10-b2b2443e8d1b)
+
 
 ## Program 4: Days of Weeks
 
@@ -131,6 +135,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/0ecea506-590e-4619-a61f-2a9f4bd8b512)
 
 ## Program 5: Simple Calculator 
 
@@ -187,6 +192,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/835f3a07-5f53-4cdd-a932-9fc78058e9d0)
 
 ## Program 6: Grade Evaluation
 
@@ -226,6 +232,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/64df982f-b736-4da5-944c-8fcefca33262)
 
 ## Conclusion:
  We learned that if-else statements help choose actions based on conditions, while switch statements simplify handling multiple choices for a single variable. Both tools are essential for making decisions in programs.
